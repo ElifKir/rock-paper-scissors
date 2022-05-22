@@ -10,7 +10,6 @@ Kod kısmı aşağıdadır.
 Zip olarak ayrıca koydum direkt oradan indirebilirsiniz. 
 
 
-
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
